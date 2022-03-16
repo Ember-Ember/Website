@@ -19,7 +19,7 @@ params:
   title: MagentaBlog
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Magenta, Moss
+  author: Magenta
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006, Janurary 2"
@@ -51,7 +51,6 @@ params:
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
-    pfp: "<link / abs url>"
 
   label:
     text: "Home"
@@ -100,7 +99,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
