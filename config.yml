@@ -39,7 +39,7 @@ params:
   showtoc: false
   tocopen: false
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/MagentaPuppy/MagentaSite/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -84,7 +84,7 @@ params:
     - name: youtube
       url: "https://www.youtube.com/channel/UCR4XbqQrv3Cq90P-h-QLDPA"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/MagentaPuppy"
 
   #analytics:
   #  google:
