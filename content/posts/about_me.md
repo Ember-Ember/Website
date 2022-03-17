@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2022-03-17T14:03:31+11:00
-tags: [""]
+tags: ["Info"]
 author: ""
 draft: false
 showToc: true
@@ -16,7 +16,12 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 aliases:
     - /about_me/
+
 ---
-e
-E
+### Intro
+
+PAIN
+
+---
+
 

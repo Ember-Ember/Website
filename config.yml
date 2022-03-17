@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "http://localhost:2015/"
 title: MagentaBlog
 paginate: 5
 theme: papermod
@@ -14,6 +14,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MagentaBlog
@@ -25,6 +27,7 @@ params:
   DateFormat: "2006, Janurary 2"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -113,10 +116,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
       name: tags
       url: /tags/
