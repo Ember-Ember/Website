@@ -1,4 +1,4 @@
-baseURL: "http://localhost:2015/"
+baseURL: "http://10.0.1.124:2015/"
 title: MagentaBlog
 paginate: 5
 theme: papermod

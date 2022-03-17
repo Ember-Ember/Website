@@ -20,7 +20,7 @@ aliases:
 ---
 ### Intro
 
-PAIN
+I hope to never touch making a site ever again
 
 ---
 
