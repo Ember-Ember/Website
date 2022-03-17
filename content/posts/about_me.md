@@ -18,4 +18,5 @@ aliases:
     - /about_me/
 ---
 e
+E
 
