@@ -39,7 +39,7 @@ params:
   showtoc: false
   tocopen: false
   editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/content"
+    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -69,8 +69,8 @@ params:
     buttons:
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
+      - name: About Me
+        url: about_me
 
   # home-info mode
   homeInfoParams:

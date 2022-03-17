@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "About Me"
+date: 2022-03-17T14:03:31+11:00
 tags: [""]
 author: ""
-draft: true
+draft: false
 showToc: true
 TocOpen: false
 ShowReadingTime: true
