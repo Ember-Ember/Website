@@ -18,9 +18,10 @@ aliases:
     - /about_me/
 
 ---
+
 ### Intro
 
-I hope to never touch making a site ever again
+![image](/mald.png)
 
 ---
 

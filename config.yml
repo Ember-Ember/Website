@@ -1,4 +1,4 @@
-baseURL: "http://10.0.1.124:2015/"
+baseURL: "http://magentapuppy.me/"
 title: MagentaBlog
 paginate: 5
 theme: papermod
@@ -12,14 +12,14 @@ buildExpired: false
 
 minify:
   disableXML: true
-  minifyOutput: true
+  minifyOutput: false
 
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MagentaBlog
-  description: "ExampleSite description"
+  description: "Magenta's personal site"
   keywords: [Blog, Portfolio, PaperMod]
   author: Magenta
   # author: ["Me", "You"] # multiple authors
@@ -72,7 +72,9 @@ params:
         url: posts
       - name: About Me
         url: posts/about_me
+#*I hope to never touch making a site ever again. gosh this was pain*
 
+#editing on the go
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
