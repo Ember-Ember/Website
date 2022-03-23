@@ -9,7 +9,7 @@ TocOpen: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-comments: false
+comments: true
 editPost:
     URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
     Text: "Suggest Changes" # edit text

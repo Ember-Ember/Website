@@ -6,10 +6,11 @@ author: ""
 draft: false
 showToc: true
 TocOpen: false
+description: "Information about myself"
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-comments: false
+comments: true
 editPost:
     URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
     Text: "Suggest Changes" # edit text
@@ -24,5 +25,7 @@ aliases:
 - 🏳️‍⚧️ 🏳️‍🌈 and Autistic
 - Trans rights. no debate, or no kneecaps
 - Pronouns: Any Non-Masculine
+- [Computer specs](https://magentapuppy.me/specs)
 
 ---
+#### Overview
