@@ -19,9 +19,7 @@ params:
 
 ---
 
-I don't colect data on you. 
-
-BUT this site is behind cloudflare, and they do. 
+This site does not collect your data, however this site is behind cloudflare. 
 so read their privacy policy.
 
 ---

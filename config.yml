@@ -31,6 +31,7 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
+  ShowFullTextinRSS: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
