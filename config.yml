@@ -20,7 +20,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MagentaBlog
   description: "Magenta's personal site"
-  keywords: [Blog, Portfolio, PaperMod]
+  keywords: [Blog, Portfolio, PaperMod, Magenta, Puppy, Static]
   author: Magenta
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -63,7 +63,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Magenta's Page
     subtitle: "Check out my cringe socials"
-    imageUrl: "profile.png"
+    imageUrl: "profile-picture.webp"
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile picture

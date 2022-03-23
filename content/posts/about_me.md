@@ -21,7 +21,7 @@ aliases:
 
 ### Intro
 
-![image](/mald.png)
+We created
 
 ---
 
