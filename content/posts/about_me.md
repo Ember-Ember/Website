@@ -21,8 +21,8 @@ aliases:
 
 ### Intro
 
-We created
+- 🏳️‍⚧️ 🏳️‍🌈 and Autistic
+- Trans rights. no debate, or no kneecaps
+- Pronouns: Any Non-Masculine
 
 ---
-
-
