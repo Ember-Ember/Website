@@ -12,7 +12,7 @@ buildExpired: false
 
 minify:
   disableXML: true
-  minifyOutput: false
+  minifyOutput: true
 
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
 
@@ -23,12 +23,11 @@ params:
   keywords: [Blog, Portfolio, PaperMod, Magenta, Puppy, Static]
   author: Magenta
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: 
+  - profile-banner.png
   DateFormat: "2006, Janurary 2"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowFullTextinRSS: true
