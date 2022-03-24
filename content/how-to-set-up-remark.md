@@ -3,7 +3,7 @@ title: "How to Set Up Remark"
 date: 2022-03-24T12:58:05+11:00
 tags: [""]
 author: ""
-draft: false
+draft: true
 showToc: true
 url: "/remark-setup/"
 TocOpen: false
@@ -19,7 +19,15 @@ params:
     ShowShareButtons: true
 ---
 
-## [This is not content made by myself](https://github.com/Hrothgar32/almoszediu-website/blob/master/content/posts/how-to-set-up-remark.md) {#disclaimer}
+# [This is not content made by myself](https://github.com/Hrothgar32/almoszediu-website/blob/master/content/posts/how-to-set-up-remark.md) {#disclaimer}
+
+# ***REMARK CAN GO SCREW ITSELF***
+
+# **AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA**
+
+---
+
+### Article start
 
 One of the challenges of starting a blog like this is to add a commenting
 mechanism in order to connect with your audience. There are many options
