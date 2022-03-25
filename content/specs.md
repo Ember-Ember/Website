@@ -1,7 +1,7 @@
 ---
 title: "Computer Specs"
 date: 2022-03-23T21:08:29+11:00
-tags: [""]
+tags: ["Info"]
 author: ""
 draft: false
 showToc: true

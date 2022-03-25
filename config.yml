@@ -15,6 +15,8 @@ minify:
   minifyOutput: true
 
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
+permalinks:
+  posts: posts/:year/:month/:title/
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -30,8 +32,10 @@ params:
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
+  enableEmoji: true
   ShowFullTextinRSS: true
   ShowPostNavLinks: true
+  enableInlineShortcodes: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
@@ -72,6 +76,7 @@ params:
         url: posts
       - name: About Me
         url: posts/about_me
+
 #*I hope to never touch making a site ever again. gosh this was pain*
 
 #editing on the go
@@ -122,6 +127,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 25
     - identifier: search
       name: search
       url: /search/

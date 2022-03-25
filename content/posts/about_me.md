@@ -6,6 +6,7 @@ author: ""
 draft: false
 showToc: true
 TocOpen: false
+enableEmoji: true
 description: "Information about myself"
 ShowReadingTime: true
 ShowBreadCrumbs: true
@@ -25,7 +26,7 @@ aliases:
 - 🏳️‍⚧️ 🏳️‍🌈 and Autistic
 - Trans rights. no debate, or no kneecaps
 - Pronouns: Any Non-Masculine
-- [Computer specs](https://magentapuppy.me/specs)
+- [Computer specs](https://magentapuppy.me/specs) {{< emoji ":thumbsup:" >}}
 
 ---
 #### Overview
