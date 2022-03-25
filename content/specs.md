@@ -19,9 +19,9 @@ params:
     ShowShareButtons: true
 ---
 
-- **CPU:** *Ryzen 9 5950X*
-- **OS:** *Linux Mint*
-- **GPU:** *RX 580-8GB*
-- **RAM:** *32GB*
+- **CPU:** [Ryzen 9 5950X](https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x)
+- **OS:** [Linux Mint](https://linuxmint.com/)
+- **GPU:** [RX 580-8GB](https://www.amd.com/en/products/graphics/radeon-rx-580)
+- **RAM:** 32GB(2x16)
 
 ---
