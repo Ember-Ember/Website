@@ -15,8 +15,8 @@ minify:
   minifyOutput: true
 
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
-permalinks:
-  posts: posts/:year/:month/:title/
+#permalinks:
+#  posts: posts/:year/:month/:title/
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -75,7 +75,7 @@ params:
       - name: Posts
         url: posts
       - name: About Me
-        url: posts/about_me
+        url: posts/about_me/
 
 #*I hope to never touch making a site ever again. gosh this was pain*
 
