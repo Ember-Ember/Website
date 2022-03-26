@@ -23,7 +23,7 @@ aliases:
 
 ### Intro
 
-- 🏳️‍⚧️ 🏳️‍🌈 and Autistic
+- {{< emoji ":transgender_flag:" >}} {{< emoji ":rainbow_flag:" >}} and Autistic
 - Trans rights. no debate, or no kneecaps
 - Pronouns: Any Non-Masculine
 - [Computer specs](https://magentapuppy.me/specs) 
