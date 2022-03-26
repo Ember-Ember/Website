@@ -30,8 +30,4 @@ aliases:
 
 {{< emoji ":heart:" >}}
 
-[Neat]({{< ref "posts/privacy-policy.md" >}})
-
-{{< inline-svg "aroace.svg" >}}
-
 ---
