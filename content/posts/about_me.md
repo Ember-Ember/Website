@@ -3,6 +3,7 @@ title: "About Me"
 date: 2022-03-17T14:03:31+11:00
 tags: ["Info"]
 author: ""
+slug: "about_me"
 draft: false
 showToc: true
 TocOpen: false
@@ -17,7 +18,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 aliases:
-    - /about_me/
+  - "/about_me/"
 
 ---
 

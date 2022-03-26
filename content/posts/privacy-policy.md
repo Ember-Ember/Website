@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2022-03-19T00:25:38+11:00
 tags: ["Info"]
+slug: "privacy_policy"
 author: ""
 draft: false
 showToc: true

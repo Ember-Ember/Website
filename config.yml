@@ -1,6 +1,6 @@
 baseURL: "http://magentapuppy.me/"
 title: MagentaBlog
-paginate: 5
+paginate: 1
 theme: papermod
 
 enableRobotsTXT: true
@@ -8,15 +8,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-#googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   minifyOutput: true
 
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
-#permalinks:
-#  posts: posts/:year/:month/:title/
+
+permalinks:
+  posts: posts/:slug/
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
