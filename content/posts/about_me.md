@@ -26,7 +26,12 @@ aliases:
 - 🏳️‍⚧️ 🏳️‍🌈 and Autistic
 - Trans rights. no debate, or no kneecaps
 - Pronouns: Any Non-Masculine
-- [Computer specs](https://magentapuppy.me/specs) {{< emoji ":thumbsup:" >}}
+- [Computer specs](https://magentapuppy.me/specs) 
+
+{{< emoji ":heart:" >}}
+
+[Neat]({{< ref "posts/privacy-policy.md" >}})
+
+{{< inline-svg "aroace.svg" >}}
 
 ---
-#### Overview
