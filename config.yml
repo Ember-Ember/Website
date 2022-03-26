@@ -1,6 +1,6 @@
 baseURL: "http://magentapuppy.me/"
 title: MagentaBlog
-paginate: 1
+paginate: 5
 theme: papermod
 
 enableRobotsTXT: true
