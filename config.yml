@@ -28,6 +28,7 @@ params:
   images: 
   - profile-banner.png
   DateFormat: "2006, Janurary 2"
+  timeZone: "Australia/Melbourne"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowReadingTime: true
