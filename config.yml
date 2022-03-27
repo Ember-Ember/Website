@@ -17,11 +17,6 @@ publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Pub
 permalinks:
   posts: posts/:slug/
 
-taxonomies:
-  category: categories
-  series: series
-  tag: tags
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MagentaBlog
