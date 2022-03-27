@@ -20,7 +20,9 @@ params:
 
 ---
 
-This site does not collect your data, however this site is behind cloudflare. 
+This site does not collect your data or display any ads, however this site is behind cloudflare. 
 so read their privacy policy.
+
+The javascript is only for the lightmode/darkmode toggle and search, the rest of the site is 100% functional without javascript
 
 ---
