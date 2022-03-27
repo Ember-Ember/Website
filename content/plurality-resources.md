@@ -28,4 +28,6 @@ params:
 
 **This is in no way complete, nor should anything here be taken at face value, everyone's experiences are different and no one experience is more valid or real than another.**
 
+*We welcome feedback and criticism, if you see a mistake or error please let us know!*
+
 ---
