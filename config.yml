@@ -37,13 +37,12 @@ params:
   ShowPostNavLinks: true
   enableInlineShortcodes: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
-  disableScrollToTop: false
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   editPost:
@@ -125,15 +124,16 @@ params:
 menu:
   main:
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: archives
-      name: archives
+    - name: Categories
+      url: categories
+      weight: 22.5
+    - name: Archives
       url: /archives/
       weight: 25
-    - identifier: search
-      name: search
+    - name: Search
       url: /search/
       weight: 30
 outputs:
@@ -141,6 +141,11 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
 
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

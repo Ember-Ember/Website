@@ -2,6 +2,8 @@
 title: "About Me"
 date: 2022-03-17T14:03:31+11:00
 tags: ["Info"]
+categories: ["Information"]
+series: [""]
 author: ""
 slug: "about_me"
 draft: false
