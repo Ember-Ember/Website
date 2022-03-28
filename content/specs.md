@@ -2,6 +2,8 @@
 title: "Computer Specs"
 date: 2022-03-23T21:08:29+11:00
 tags: ["Info"]
+categories: ["Info"]
+series: [""]
 author: ""
 draft: false
 showToc: true
