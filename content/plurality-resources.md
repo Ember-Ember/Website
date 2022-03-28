@@ -31,3 +31,7 @@ params:
 *We welcome feedback and criticism, if you see a mistake or error please let us know!*
 
 ---
+
+<!--### About Us
+
+
