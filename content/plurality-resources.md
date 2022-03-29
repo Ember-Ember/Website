@@ -33,5 +33,3 @@ params:
 ---
 
 <!--### About Us
-
-
