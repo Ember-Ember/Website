@@ -22,7 +22,7 @@ params:
     ShowShareButtons: true
 ---
 
-## Magenta's compilation of plurality resources
+### Magenta's compilation of plurality resources
 
 ---
 

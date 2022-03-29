@@ -1,12 +1,12 @@
 ---
-title: "VoiceTrainingAgregate"
+title: "Voice Training Compilation"
 slug: "Voice_Training_Compilation"
 date: 2022-03-29T21:27:07+11:00
 tags: [""]
 categories: [""]
 series: [""]
 author: ""
-draft: false
+draft: true
 showToc: true
 TocOpen: false
 ShowReadingTime: true
@@ -21,6 +21,10 @@ params:
     ShowShareButtons: true
 ---
 
-## A compilation of voice training tips and guides
+### Magenta's compilation of voice training tips and guides
+
+---
+
+
 
 ---
