@@ -26,7 +26,7 @@ params:
   # author: ["Me", "You"] # multiple authors
   images: 
   - profile-banner.png
-  DateFormat: "2006, Janurary 2"
+  DateFormat: "2006, Jan 2"
   timeZone: "Australia/Melbourne"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
