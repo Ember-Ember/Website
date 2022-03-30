@@ -23,6 +23,8 @@ params:
 
 ### Magenta's compilation of voice training tips and guides
 
+*As i am a trans woman most of these are for voice feminization*
+
 ---
 
 In no particular order:
