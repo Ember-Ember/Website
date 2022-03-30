@@ -6,7 +6,7 @@ tags: [""]
 categories: [""]
 series: [""]
 author: ""
-draft: false
+draft: true
 showToc: true
 TocOpen: false
 searchHidden: true

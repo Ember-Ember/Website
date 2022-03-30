@@ -33,4 +33,6 @@ aliases:
 
 {{< emoji ":heart:" >}}
 
+{{< date-to-age "0" >}}
+
 ---
