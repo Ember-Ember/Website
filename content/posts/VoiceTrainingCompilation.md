@@ -2,8 +2,8 @@
 title: "Voice Training Compilation"
 slug: "Voice_Training_Compilation"
 date: 2022-03-29T21:27:07+11:00
-tags: [""]
-categories: [""]
+tags: ["Info", "LGBTQ+"]
+categories: ["Info"]
 series: [""]
 author: ""
 draft: false
@@ -23,7 +23,7 @@ params:
 
 ### Magenta's compilation of voice training tips and guides
 
-*As i am a trans woman most of these are for voice feminization*
+*Most of these are for voice feminization, but the techniques can be used the other way*
 
 ---
 
