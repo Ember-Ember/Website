@@ -148,6 +148,31 @@ taxonomies:
     tag: tags
     series: series
 
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: true
+  twitter:
+    disable: false
+    enableDNT: true
+    simple: true
+  vimeo:
+    disable: false
+    enableDNT: true
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
+
+
+
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
