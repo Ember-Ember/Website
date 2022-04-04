@@ -1,18 +1,18 @@
 ---
-title: "Never Gonna Give You Up"
-slug: "e"
-date: 2022-04-01T23:29:22+11:00
+title: "UwUkachu"
+slug: "uwukachu"
+date: 2022-04-04T18:56:28+10:00
 tags: [""]
 categories: [""]
 series: [""]
-audio: ["https://youtu.be/dQw4w9WgXcQ"]
-video: ["https://youtu.be/dQw4w9WgXcQ"]
+images:
+- uwukachu.png
 author: ""
 draft: false
 showToc: true
 TocOpen: false
-ShowReadingTime: true
-ShowBreadCrumbs: false
+ShowReadingTime: false
+ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: true
 editPost:
@@ -22,4 +22,5 @@ editPost:
 params:
     ShowShareButtons: true
 ---
-{{< youtube id="dQw4w9WgXcQ" autoplay="true" >}}
+
+![uwukachu](/uwukachu.png)
