@@ -28,7 +28,7 @@ aliases:
 
 - {{< emoji ":transgender_flag:" >}} {{< emoji ":rainbow_flag:" >}} and Autistic
 - Trans rights. no debate, or no kneecaps
-- Pronouns: Any Non-Masculine
+- Pronouns: she/they/it
 - [Computer specs](https://magentapuppy.me/specs) 
 
 {{< emoji ":heart:" >}}
