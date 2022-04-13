@@ -34,5 +34,6 @@ In no particular order:
 - [L's voice training guide](https://www.reddit.com/r/transvoice/comments/d3clhe/ls_voice_training_guide_level_1_for_mtf/) (Reddit)
 - [AmaRoseLessons](https://www.youtube.com/channel/UCxf2G8FngClWckRUhmNwUHw/videos) (youtube channel)
 - [The “One-Step” To PERFECT Voice Feminization](https://www.youtube.com/watch?v=F6Noi2qERus) (youtube video)
+- [Solid introductory voice training resources](https://www.reddit.com/r/transvoice/comments/mgaci7/solid_introductory_voice_training_resources/) (r/transvoice pinned post)
 
 ---
