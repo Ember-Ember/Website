@@ -31,8 +31,6 @@ aliases:
 - Pronouns: she/they/it
 - [Computer specs](https://magentapuppy.me/specs) 
 
-{{< emoji ":heart:" >}}
-
 {{< date-to-age "0" >}}
 
 ---
