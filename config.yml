@@ -92,6 +92,10 @@ params:
       url: "https://www.youtube.com/channel/UCR4XbqQrv3Cq90P-h-QLDPA"
     - name: github
       url: "https://github.com/MagentaPuppy"
+    - name: modrinth
+      url: "https://modrinth.com/user/Magenta"
+    - name: quiltforum
+      url: "https://forum.quiltmc.org/u/magenta/"
 
 
   #analytics:
