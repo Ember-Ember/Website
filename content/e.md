@@ -1,6 +1,6 @@
 ---
-title: "Never Gonna Give You Up"
-slug: "e"
+title: "Ember's site"
+slug: "i"
 date: 2022-04-01T23:29:22+11:00
 tags: [""]
 categories: [""]

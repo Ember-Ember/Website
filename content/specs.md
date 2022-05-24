@@ -4,12 +4,12 @@ date: 2022-03-23T21:08:29+11:00
 tags: ["Info"]
 categories: ["Info"]
 series: [""]
-description: "|| CPU: Ryzen 9 5950X \n
-|| OS: Linux Mint \n
-|| GPU: RX 580-8GB \n
-|| RAM: 64GB(4x16) \n
-|| SSD: Firecuda 520 \n
-|| MB: ROG Crosshair VIII Formula "
+description: "» CPU: Ryzen 9 5950X \n
+» OS: Linux Mint \n
+» GPU: RX 580-8GB \n
+» RAM: 64GB(4x16) \n
+» SSD: Firecuda 520 \n
+» MB: ROG Crosshair VIII Formula"
 author: ""
 images:
   - specs.png

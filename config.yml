@@ -1,5 +1,5 @@
-baseURL: "http://magentapuppy.me/"
-title: MagentaBlog
+baseURL: "http://emberdev.me/"
+title: Ember
 paginate: 5
 theme: papermod
 
@@ -19,8 +19,8 @@ permalinks:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: MagentaBlog
-  description: "Magenta's personal site"
+  title: Ember
+  description: "Ember's personal site"
   keywords: [Blog, Portfolio, PaperMod, Magenta, Puppy, Static]
   author: Magenta
   # author: ["Me", "You"] # multiple authors
@@ -65,9 +65,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Magenta's Page
+    title: Ember's Page
     subtitle: "Check out my cringe socials"
-    imageUrl: "profile-picture.webp"
+    imageUrl: "profile-picture.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: profile picture
@@ -93,9 +93,11 @@ params:
     - name: github
       url: "https://github.com/MagentaPuppy"
     - name: modrinth
-      url: "https://modrinth.com/user/Magenta"
+      url: "https://modrinth.com/user/Ember"
     - name: quiltforum
       url: "https://forum.quiltmc.org/u/magenta/"
+    - name: discord
+      url: https://discord.gg/xVRWr64SyT
 
 
   #analytics:
@@ -187,3 +189,5 @@ privacy:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+#<svg id="quilt" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 813.53 813.53"><defs><style>.cls-1{fill:#161616;}.cls-2{fill:#fff;}</style></defs><rect class="cls-2" x="222.27" y="222.27" width="220.19" height="220.19" rx="11.28"/><rect class="cls-2" x="471.06" y="222.27" width="220.19" height="220.19" rx="11.28"/><rect class="cls-2" x="222.27" y="471.06" width="220.19" height="220.19" rx="11.28"/><rect class="cls-2" x="516.67" y="516.67" width="220.19" height="220.19" rx="11.28" transform="translate(-259.61 626.76) rotate(-45)"/></svg>
