@@ -16,7 +16,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 comments: true
 editPost:
-    URL: "example.com"
+    URL: "https://github.com/Ember-Ember/Website/tree/main/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 params:
