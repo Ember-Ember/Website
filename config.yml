@@ -46,7 +46,7 @@ params:
   tocopen: false
 
   editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
+    URL: "example.com"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -86,18 +86,20 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/Theverymagenta"
-    - name: youtube
-      url: "https://www.youtube.com/channel/UCR4XbqQrv3Cq90P-h-QLDPA"
+    #- name: twitter
+    #  url: "https://twitter.com/Theverymagenta"
+    #- name: youtube
+    #  url: "https://www.youtube.com/channel/UCR4XbqQrv3Cq90P-h-QLDPA"
     - name: github
-      url: "https://github.com/MagentaPuppy"
+      url: "https://github.com/Ember-EmberDev"
     - name: modrinth
       url: "https://modrinth.com/user/Ember"
     - name: quiltforum
-      url: "https://forum.quiltmc.org/u/magenta/"
+      url: "https://forum.quiltmc.org/u/ember/"
     - name: discord
       url: https://discord.gg/xVRWr64SyT
+    - name: mastodon
+      url: https://tech.lgbt/@EmberDev
 
 
   #analytics:
@@ -114,7 +116,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
+    URL: "example.com"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

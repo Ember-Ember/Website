@@ -16,7 +16,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: true
 editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
+    URL: "example.com"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 aliases:
@@ -29,6 +29,6 @@ aliases:
 - {{< emoji ":transgender_flag:" >}} {{< emoji ":rainbow_flag:" >}} and Autistic
 - Trans rights. no debate, or no kneecaps
 - Pronouns: she/they/it
-- [Computer specs](https://magentapuppy.me/specs) 
+- [Computer specs](https://emberdev.me/specs) 
 
 ---

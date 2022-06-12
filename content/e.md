@@ -16,7 +16,7 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 comments: true
 editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
+    URL: "example.com"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 params:

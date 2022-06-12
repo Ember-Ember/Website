@@ -14,14 +14,14 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: true
 editPost:
-    URL: "https://github.com/MagentaPuppy/MagentaSite/blob/main/content"
+    URL: "example.com"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 params:
     ShowShareButtons: true
 ---
 
-### Magenta's compilation of voice training tips and guides
+### Ember's compilation of voice training tips and guides
 
 *Most of these are for voice feminization, but the techniques can be used the other way*
 
