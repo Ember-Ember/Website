@@ -22,7 +22,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 comments: false
 editPost:
-    URL: "https://github.com/Ember-Ember/Website/tree/main/"
+    URL: "https://github.com/Ember-Ember/Website/tree/main"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 params:
