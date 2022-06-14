@@ -12,7 +12,7 @@ minify:
   disableXML: true
   minifyOutput: true
 
-publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/Magenta-blog-Public"
+publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog-Public"
 
 permalinks:
   posts: posts/:slug/
@@ -22,7 +22,7 @@ params:
   title: Ember
   description: "Ember's personal site"
   keywords: [Blog, Portfolio, PaperMod, Magenta, Puppy, Static]
-  author: Magenta
+  author: Ember
   # author: ["Me", "You"] # multiple authors
   images: 
   - profile-banner.png
@@ -91,7 +91,7 @@ params:
     #- name: youtube
     #  url: "https://www.youtube.com/channel/UCR4XbqQrv3Cq90P-h-QLDPA"
     - name: github
-      url: "https://github.com/Ember-EmberDev"
+      url: "https://github.com/Ember-Ember"
     - name: modrinth
       url: "https://modrinth.com/user/Ember"
     - name: quiltforum
