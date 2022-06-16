@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ember
   description: "Ember's personal site"
-  keywords: [Blog, Portfolio, PaperMod, Magenta, Puppy, Static]
+  keywords: [Blog, Portfolio, PaperMod, Static]
   author: Ember
   # author: ["Me", "You"] # multiple authors
   images: 
