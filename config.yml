@@ -96,8 +96,8 @@ params:
       url: "https://modrinth.com/user/Ember"
     - name: quiltforum
       url: "https://forum.quiltmc.org/u/ember/"
-    - name: discord
-      url: https://discord.gg/xVRWr64SyT
+    #- name: discord
+    #  url: 
     - name: mastodon
       url: https://tech.lgbt/@EmberDev
 
