@@ -1,3 +1,6 @@
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = https://github.com/Ember-Ember/hugo-PaperMod.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = git@github.com:Ember-Ember/hugo-theme-terminal.git
