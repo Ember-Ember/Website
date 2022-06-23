@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#rm /mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog/content/uwu/*
+
+#cp -r /mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog/content/!(uwu) /mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog/content/uwu
+
 sudo systemctl stop caddy
 sleep 0.05
 rm /mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog-Public/* -r

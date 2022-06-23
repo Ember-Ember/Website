@@ -16,7 +16,7 @@ publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog-Publi
 
 permalinks:
   posts: posts/:slug/
-
+  
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Ember
@@ -114,11 +114,6 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
-
-  editPost:
-    URL: "https://github.com/Ember-Ember/Website/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
