@@ -156,7 +156,7 @@ privacy:
     disable: true
   googleAnalytics:
     anonymizeIP: true
-    disable: false
+    disable: true
     respectDoNotTrack: true
     useSessionStorage: false
   instagram:
