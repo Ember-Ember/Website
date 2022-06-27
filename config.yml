@@ -95,7 +95,7 @@ params:
     - name: modrinth
       url: "https://modrinth.com/user/Ember"
     - name: quiltforum
-      url: "https://forum.quiltmc.org/u/ember/"
+      url: "https://forum.quiltmc.org/u/Ember/"
     #- name: discord
     #  url: 
     - name: mastodon
