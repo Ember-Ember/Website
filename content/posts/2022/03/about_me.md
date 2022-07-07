@@ -30,5 +30,6 @@ aliases:
 - Trans rights. no debate, or no kneecaps
 - Pronouns: she/they/it
 - [Computer specs](https://emberdev.me/specs) 
+- [Pronouns.page](https://en.pronouns.page/@EmberDev)
 
 ---

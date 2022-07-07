@@ -15,7 +15,7 @@ images:
   - specs.png
 draft: false
 showToc: true
-url: "/specs/"
+slug: "specs"
 TocOpen: false
 ShowReadingTime: true
 ShowBreadCrumbs: true
