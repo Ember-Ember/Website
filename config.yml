@@ -15,7 +15,7 @@ minify:
 publishDir: "/mnt/ddf46e84-10c6-40fb-85b2-99f14e503946/selfhost/ember-blog-Public"
 
 permalinks:
-  posts: posts/:slug/
+  posts: posts/:year/:month/:slug/
   
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -75,7 +75,7 @@ params:
       - name: Posts
         url: posts
       - name: About Me
-        url: posts/about_me/
+        url: posts/2022/03/about_me/
 
 #*I hope to never touch making a site ever again. gosh this was pain*
 
@@ -134,9 +134,6 @@ menu:
     - name: Categories
       url: categories
       weight: 22.5
-    - name: Archives
-      url: /archives/
-      weight: 25
     - name: Search
       url: /search/
       weight: 30
