@@ -137,6 +137,9 @@ menu:
     - name: Search
       url: /search/
       weight: 30
+    - name: Site-Rewrite
+      url: https://rewrite.emberdev.me/
+      weight: 35
 outputs:
     home:
         - HTML
