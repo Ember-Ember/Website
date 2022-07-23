@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/emberember
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emberdev.me
+  * I am emberember (https://keybase.io/emberember) on keybase.
+  * I have a public key with fingerprint 67AC 0C48 F67F EAD5 1D99  E875 7F13 7C06 4985 28DA
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101adaff6f9791d318b1dc9c9485840b61c10a26f1a11ac81dcf21d7e3e1bc4d8430a",
+      "fingerprint": "67ac0c48f67fead51d99e8757f137c06498528da",
+      "host": "keybase.io",
+      "key_id": "7f137c06498528da",
+      "kid": "0101adaff6f9791d318b1dc9c9485840b61c10a26f1a11ac81dcf21d7e3e1bc4d8430a",
+      "uid": "d708357a59714539cde45e5b5689da19",
+      "username": "emberember"
+    },
+    "service": {
+      "hostname": "emberdev.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1656256451,
+  "expire_in": 157680000,
+  "prev": "c4b415f07736e7af8bf468cef69ffacea331cc21a8ba489b7ee1da7203854136",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUmtMHFUU3gVseRleEUMJaqegoDxmdt4r2kBWHttSa8wWAXW9M3NnGcru0t3l
+JdAtpYvWItTWFkGRlB9AyiMF2wg+qEmtUrC0ldhawRYkNTwEE4SCq3adITbxhz+9
+P+7NOef7vvudk3P0QW+Vv9oZVrkp0xX7g3p0jlNxA6WXKxDOKpQj2gpkL9x4YKEA
+7Q7jXklAtAiKoRgQgChSIkuzmIBjDIcJPMuzBEMyBMpRGI+hQEOJGMAwwDNyUdRg
+Ag1xiHE8ITAEjgIkHhEliwnaimySxSHLUjTgUZ5gRIoWIRBITGBZyNAkLWI4zaMU
+wTKkhhEUYr7VrjBkcxyww0TJKufkwLhh7z/w/7Pv4g05gUYZnKQBydIYQeIsL0CC
+hCRHUgwrAIxVgHZoswAzlNHQzEHbxoVUxSNyvkTioTJapZd/YwRYkihH8UiRzeqw
+8tZCuZDvcBTZtQrRUV6kIEshZ/xHw8hJFkEepMwogTa7ZLUgWkxG8g5JEcUoktKQ
+FEFi8QgsK5Js0CgpCJKmGFQ+yj+wRJbkCY7AyBwRpWmcgjQQGU4kKIaHIsWKIuAh
+wHGM5zUYYDhAMCxHQ4gJgNagOEMSGE4hSlv7LFZEi8s+gUnWtEsmC3AU2yBS5X/Y
+C/dRqf1VUeFbfUzdgRl3nfPfRTXNFt9fvge8lM1T+fsF3888cizIs8+83NaxXX/K
+717Ejuzx5umE9CbvOMNg5XvTj9aP74oJHDGEfqHf/9XZrcnV0881/Hkv7IlZ0Fw9
+GPDS0zc2L1yqvTvnXLVcNOwCQW+/09Ppnlwb9uU8Z05U4un5JtPtW4Ot4MmVoJGa
+c0JZ750Vdc/stoXmePzOwRc+jqrIUi/GxuS1Xyi16hpdroFPIqODYvOropf3NKem
+fftr0pUP1J4vjQmdbtWZ2Nqbp04vfpoasn+qoC50la23DUfmhXe36Hw7Mg29JzWm
+NeFAyjVzXpa2/o+Gpuy2yjRbt7f+fdcmj1M/drSmcNx1mb1Wt2Vyt++8YeeSf1nU
++bnje9oNxNd9M4cScj47lnzydExpy+RrPtumfgOHnnr4Zff6udlsYqL/ei9RbA5w
+NXrB3zNGdDdVAzuh5M56NkNXRgfVp41QI89PjDce6Sp8XL/yS/tYwGNJOs0SEjzG
+1c1XfrS4fqAgfPYqYm5LWH1rtDah00fXtpT0kPP8DmdosOfDlf5Wv5DO4atxbwwd
+iYgbvRDiprJW/1rUvZmRbrzVF1Exw7dqvId0Ez+Zq9fK0bDAild+Llg7MdMSPdR4
+0YlEAO74lsmG66+H3aBerXnGb1xlTM45O5xp3Z2Yov2xv//KN+6OmvWx700HPbmf
+H17u0Rte3N4kbp4aTgnLrb00Gflu18Jc1+2+5tzUvwE=
+=JWvP
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emberember
+
+==================================================================
+
