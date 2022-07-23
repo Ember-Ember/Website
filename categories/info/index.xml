@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Info on Ember</title>
-    <link>http://emberdev.me/categories/info/</link>
+    <link>https://ember-ember.github.io/categories/info/</link>
     <description>Recent content in Info on Ember</description>
     <image>
-      <url>http://emberdev.me/profile-banner.png</url>
-      <link>http://emberdev.me/profile-banner.png</link>
+      <url>https://ember-ember.github.io/profile-banner.png</url>
+      <link>https://ember-ember.github.io/profile-banner.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Mar 2022 21:27:07 +1100</lastBuildDate><atom:link href="http://emberdev.me/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Mar 2022 21:27:07 +1100</lastBuildDate><atom:link href="https://ember-ember.github.io/categories/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Voice Training Compilation</title>
-      <link>http://emberdev.me/posts/2022/03/voice_training_compilation/</link>
+      <link>https://ember-ember.github.io/posts/2022/03/voice_training_compilation/</link>
       <pubDate>Tue, 29 Mar 2022 21:27:07 +1100</pubDate>
       
-      <guid>http://emberdev.me/posts/2022/03/voice_training_compilation/</guid>
+      <guid>https://ember-ember.github.io/posts/2022/03/voice_training_compilation/</guid>
       <description>Ember&amp;rsquo;s compilation of voice training tips and guides Most of these are for voice feminization, but the techniques can be used the other way
 In no particular order:
 Voice Quills&amp;rsquo; twitter thread (Nitter mirror) Trans voice lessons (youtube channel) L&amp;rsquo;s voice training guide (Reddit) AmaRoseLessons (youtube channel) The “One-Step” To PERFECT Voice Feminization (youtube video) Solid introductory voice training resources (r/transvoice pinned post) </description>
@@ -37,10 +37,10 @@ Voice Quills&amp;rsquo; twitter thread (Nitter mirror) Trans voice lessons (yout
     
     <item>
       <title>Computer Specs</title>
-      <link>http://emberdev.me/posts/2022/03/specs/</link>
+      <link>https://ember-ember.github.io/posts/2022/03/specs/</link>
       <pubDate>Wed, 23 Mar 2022 21:08:29 +1100</pubDate>
       
-      <guid>http://emberdev.me/posts/2022/03/specs/</guid>
+      <guid>https://ember-ember.github.io/posts/2022/03/specs/</guid>
       <description>» CPU: Ryzen 9 5950X 
  » OS: Linux Mint 
  » GPU: RX 580-8GB 
@@ -61,10 +61,10 @@ Voice Quills&amp;rsquo; twitter thread (Nitter mirror) Trans voice lessons (yout
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://emberdev.me/posts/2022/03/privacy_policy/</link>
+      <link>https://ember-ember.github.io/posts/2022/03/privacy_policy/</link>
       <pubDate>Sat, 19 Mar 2022 00:25:38 +1100</pubDate>
       
-      <guid>http://emberdev.me/posts/2022/03/privacy_policy/</guid>
+      <guid>https://ember-ember.github.io/posts/2022/03/privacy_policy/</guid>
       <description>This site does not collect your data or display any ads, however this site is behind cloudflare. so read their privacy policy.
 Javascript is only for the lightmode/darkmode toggle and search, the rest of the site is 100% functional without javascript</description>
       <content:encoded><![CDATA[<p>This site does not collect your data or display any ads, however this site is behind cloudflare.
@@ -76,10 +76,10 @@ so read their privacy policy.</p>
     
     <item>
       <title>About Me</title>
-      <link>http://emberdev.me/posts/2022/03/about_me/</link>
+      <link>https://ember-ember.github.io/posts/2022/03/about_me/</link>
       <pubDate>Thu, 17 Mar 2022 14:03:31 +1100</pubDate>
       
-      <guid>http://emberdev.me/posts/2022/03/about_me/</guid>
+      <guid>https://ember-ember.github.io/posts/2022/03/about_me/</guid>
       <description>Information about myself</description>
       <content:encoded><![CDATA[<h3 id="intro">Intro</h3>
 <ul>
