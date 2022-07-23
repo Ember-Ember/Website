@@ -1,4 +1,4 @@
-baseURL: "https://emberdev.me"
+baseURL: "https://emberdev.me/"
 title: Ember
 paginate: 5
 theme: papermod
