@@ -64,7 +64,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Ember's Page
-    subtitle: "Check out my cringe socials"
+    subtitle: "I exist."
     imageUrl: "profile-picture.png"
     imageWidth: 120
     imageHeight: 120
@@ -79,10 +79,6 @@ params:
 
 #editing on the go
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-
   socialIcons:
     #- name: twitter
     #  url: "https://twitter.com/EmberDev_"
